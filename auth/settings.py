@@ -83,12 +83,7 @@ WSGI_APPLICATION = 'auth.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'alejandro_trejo_d',
-        'USER': 'alejandro_trejo',
-        'PASSWORD': 'pass',
-        'HOST': 'localhost',
-        'PORT': 5502,
+        #Your Settings here
     }
 }
 
